@@ -9,5 +9,11 @@ Diary writing can be therapeutic, productive and creative.
 If you have ever wanted a place to vent, reflect and grow, My e-Diary is that place.
 
 
+# Built With
+  - [**Android Studio**](https://developer.android.com/studio/)
+
 # Authors
-* Abderraouf GATTAL
+- **Abderraouf GATTAL** 
+
+# License
+This project is licensed under the MIT License
